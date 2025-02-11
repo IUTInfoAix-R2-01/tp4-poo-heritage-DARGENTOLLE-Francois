@@ -1,0 +1,13 @@
+EXO 5 : Redéfinir une méthode cela veut dire que dans la classe fille (ici VeloElec) que on ré-écrit une méthode de la classe 
+mère (ici Velo) dont le nom, le type des paramètres et le type de la variable de retour sont inchangés.
+
+EXO 6 : toString et getPuissance
+
+EXO 7 : Cela veut dire que la méthode utilisé est un redéfinition de la méthode d'une classe mère supérieur.
+
+EXO 8 : Sa présence montre que on peut utiliser la méthode venant de la classe mère au lieu de celle venant de la classe fille.
+Oui et Non, en effet on peut s'en passer mais c'est bien de savoir que la méthode de la classe mère existe.
+
+EXO 9 : voir les classes
+
+EXO 10 : Cet appel sert à récupérer la méthode indiqué se trouvant dans la classe mère Velo.
